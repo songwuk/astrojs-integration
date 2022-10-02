@@ -1,0 +1,15 @@
+{
+  "name": "astrojs-integration",
+  "version": "0.0.1-alpha.1",
+  "description": "astrojs integration list",
+  "keywords": [
+    "astrojs-i18n",
+    "astrojs",
+    "i18n"
+  ],
+  "author": "Song wuk <1017301325@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "nx": "^14.8.2"
+  }
+}
